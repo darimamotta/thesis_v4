@@ -1,0 +1,11 @@
+To run the project, please install these libraries:
+pip install folium
+pip install geocoder
+pip install django-cors-headers
+pip install django-crispy-forms
+pip install crispy_forms
+pip install djangorestframework
+pip install rest_framework
+pip install channels_redis
+pip install django_plotly_dash
+pip3 install djangorestframework
